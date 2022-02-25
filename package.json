@@ -1,5 +1,5 @@
 {
-  "name": "avatar",
+  "name": "avatar_dks",
   "version": "0.1.0",
   "main": "dist/Avatar/index.js",
   "private": false,
@@ -9,7 +9,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "URL_OF_YOUR_REPOSITORY"
+    "url": "https://github.com/deepakdaffodil/avatar-component"
   },
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.2",
